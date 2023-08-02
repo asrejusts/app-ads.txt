@@ -11,4 +11,4 @@ favoice事務局（以下、「当事務局」という）は、プライバシ�
 
 5.法令、規範の遵守と見直し当事務局は、保有する個人情報に関して適用される日本の法令、その他規範を遵守するとともに、本ポリシーの内容を適宜見直し、その改善に努めます。
 
-<a href="terms of service">About Us</a>
+<a href="terms-of-service.html">About Us</a>

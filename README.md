@@ -28,3 +28,4 @@
 </html>
 <a href="policy">privacy-policy</a>
 <a href="terms-of-service.html">About Us</a>
+<a href="app-ads.txt">ads</a>

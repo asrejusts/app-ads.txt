@@ -1,24 +1,5 @@
 # favoice
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-    <meta charset="UTF-8">
-    <title>ボイス　聞き方　＝　favoice</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            color: #333;
-        }
-        .section p {
-            color: #666;
-        }
-    </style>
-</head>
+
 <body>
     <div class="section">
         <h2>favoiceとは</h2>

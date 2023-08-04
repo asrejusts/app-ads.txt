@@ -7,6 +7,6 @@
     </div>
 </body>
 
-<a href="policy">privacy-policy</a>
+<a href="policy.html">privacy-policy</a>
 <a href="terms-of-service.html">terms-of-service</a>
 <a href="app-ads.txt">ads</a>
